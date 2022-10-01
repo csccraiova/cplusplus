@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// int g;
+int gr;
 
 int main()
 {
